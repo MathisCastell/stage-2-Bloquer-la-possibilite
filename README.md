@@ -16,5 +16,9 @@ Insertion de donnée dans la base de donnée pour mettre un nouveau code d'erreu
 
 INSERT INTO app_code_retour(code_id, libelle, fk_code_retour_type_id) VALUES (203, 'La date de levée doit être postérieure à la date d\'ouverture et les dates de LRAR doivent être postérieures ou égales aux dates d\'audience.', 2);
 
+## Résultat 
+
+![image](https://github.com/MathisCastell/stage-2-Bloquer-la-possibilite/assets/148212506/8f217d1d-ef85-4b5f-be68-3e18149c0bb6)
+
 
 
